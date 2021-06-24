@@ -11,7 +11,7 @@
 						Contact: corplaxus@gmail.com || Discord: laxus#3602
 */
 
-	$furnidata = 'lella/furnidata.xml';
+	$furnidata = 'habbo/furnidata.xml';
 
 	$xmlHotel = simplexml_load_file($furnidata);
 
